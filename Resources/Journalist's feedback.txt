@@ -1,0 +1,132 @@
+"I like the idea of something which shows the evolution of a news story. Big complicated stories often taken on a dynamic of their own and it can be hard to know where they started and what they are about."
+
+"For a consumer audience, the graphical and metaphorical interface might jar with more serious/grizzly stories"
+
+"we use timelines quite a lot: http://www.bbc.co.uk/news/uk-14124020 - and special reports: http://www.bbc.co.uk/news/uk-14045952"
+
+"Do you know anyone in Analysis and Research? I think it would be a
+really clever tool for them to input stuff into to present it to people
+in a more interesting way than those bloody text briefs they do!!"
+
+"It would be a good way to get up to speed on a big issue i.e. Eurozone,
+Egypt, Libya, Climate Change, Energy .... I'm not quite sure how it
+would work for something narrower."
+
+"I can see it being both useful as a briefing tool in a newsroom and as a
+way of displaying news"
+
+"I think the idea of branches for the different themes being discussed is a cracking idea. Not only for getting an idea of what is important to people and getting them talking but also to see what hasn't been discussed. That way you can see at a glance if a new angle has been covered elsewhere."
+
+"It can be difficult for a not too social media literate journalist (me!) to know where to look for online discussions or in twitter's case to understand them. So I like the leaves idea as it gives an easy impression of what is getting folk talking."
+
+
+--- 1 ---
+
+I’m a foreign affairs analyst in Analysis and Research and my role is to write briefs on current news topics for BBC journalists to use. We’re an internal resource and focus on research and providing context to a story, so I’m reading your proposal with great interest.
+ 
+I don’t need to access audio/video for my briefs, though I wonder whether your news tree will include it? e.g. will it access youtube footage? Or clips of interviews posted online by mainstream media networks (e.g. from the BBC news website)?
+ 
+I think the overall concept is a good one. A lot of my time is spent gathering information from open-source material, but I’m starting to pay more attention to conversations online e.g. twitter to learn more and get recommendations for further reading.
+ 
+I’m not very technologically proficient so my questions are:
+How would you decide what news stories to cover? Would it be automatically fed by a news feed or manually by an editor?
+Will you be including material from think tanks and research institutes and weighing them in the tree? I use think tank material a lot, but that’s more because of the particular’s of my job.
+ 
+I can certainly see room for it online as a useful resource. I’m trying to imagine how it work for the following two examples:
+ 
+1) US debt ceiling story
+My tree would include material from the white house and the key players (speaker of the House, Senate Majority speaker etc); background material (in this case, backgrounders from the Congressional Research Service, think tank research and agency Q&A and timelines); ‘professional’ analysis (pundits views in papers, online); ‘ordinary’ conversations (e.g. from twitter, social media); mixed in with audio or video clips of interviews with key players; opinion polls
+ 
+2) gay girl in Damascus unveiled
+I thought of this example because it was heavily dependent on conversations on twitter and social media, so would be more heavily geared towards those mediums, with mainstream media lagging behind somewhat, and more conversations online.
+ 
+These are hypothetical questions, by the way – I’m not expecting you to answer them at all, but those were the thoughts I had as I read your proposal.
+
+
+--- 2 ---
+
+I work on the BBC News website - as planning and production editor.
+
+I like the idea of something which shows the evolution of a news story. Big complicated stories often taken on a dynamic of their own and it can be hard to know where they started and what they are about. But I think the interface would be seen as too fussy for journalists.
+
+Can see something like this being useful in planning. But also perhaps as a consumer-facing tool.
+
+[issues or pitfalls could be] For a consumer audience, the graphical and metaphorical interface might jar with more serious/grizzly stories. For a professional/journalistic audience it could be that form is overshadowing functionality
+
+Yes, as I say, I think there is room for something that shows the evolution of a story.
+
+[it would be more accessible] as a more plain text/less graphical interface
+
+we use timelines quite a lot: http://www.bbc.co.uk/news/uk-14124020 - and special reports: http://www.bbc.co.uk/news/uk-14045952
+
+I really like the idea underpinning this - but fear the form culd be too contrived to make it worth while.
+
+
+--- 3 ---
+
+I had a quick scoot around and the blog too....
+I think it's really quite impressive - you can totally see the concept
+of the idea and how the growth of the tree mirrors the growth of the
+story.
+I think its strong point is its not very complicated to understand
+(clearly technically pretty complicated!!).
+Interesting point in Neil's blog - he mentions someone says it would be
+better to for people to make suggestions instead of it growing itself
+through trawling the web.
+Do you know anyone in Analysis and Research? I think it would be a
+really clever tool for them to input stuff into to present it to people
+in a more interesting way than those bloody text briefs they do!!
+It would also be great for punters to read into a story.... especially
+as you see the roots and how it started out - as a kind of background
+brief.
+It would be a good way to get up to speed on a big issue i.e. Eurozone,
+Egypt, Libya, Climate Change, Energy .... I'm not quite sure how it
+would work for something narrower.
+He should also have a look at the Sky News iPad app - it does some
+similar kind of things (i.e. how you break down story to component
+parts) ... might give some food for thought.
+I can see it being both useful as a briefing tool in a newsroom and as a
+way of displaying news - I think it would defo appeal to the younger
+generation - you can see it as a clever app on an iphone. 
+
+
+--- 4 ---
+
+I like your idea it could certainly bring benefits.
+ 
+I think it would certainly help a reporter who is parachuted in on a story with little prior knowledge which happens all the time (e.g. holidays, original reporter busy on other stories, the story gets bigger and needs more resources put to it).
+ 
+I think the idea of branches for the different themes being discussed is a cracking idea. Not only for getting an idea of what is important to people and getting them talking but also to see what hasn't been discussed. That way you can see at a glance if a new angle has been covered elsewhere.
+ 
+It can be difficult for a not too social media literate journalist (me!) to know where to look for online discussions or in twitter's case to understand them. So I like the leaves idea as it gives an easy impression of what is getting folk talking.
+ 
+I'd say something that needs to be clear when using it, which I think you cover, is what is another news story and what is a blog or comment. Loads of people like to pass their opinions as fact and it would be important to be able to differentiate between them quite quickly.
+
+Further to my last email it is the sort of thing that might be particularly useful in the sports or music section of the paper. Thinking of football, things can blow up on message boards with incidents fans saw at matches that the cameras missed or even things like transfer speculation. Music wise, bands like the Arctic Monkeys came about from internet support so something that would allow a journalist to tap into a rapidly rising band pretty early might be a benefit.
+
+I recently moved to [a newspaper] and was surprised at how much work they do on finding out just what people like to read and targeting the demographic they want to buy the paper. From that point of view it would be beneficial to find out what people of certain ages are talking about liking/being outraged by and target your articles accordingly so the leaves on the tree sounds perfect for that.
+
+I could see it being used in the main newsroom but I don't think it would be a vital resource as, at the minute, there is little to beat going out and talking to people first hand. 
+
+A potential problem would be getting editors/directors to pay for it. Newsrooms don't normally have the highest spec computers (and I'm reliably informed it's pretty much the same across the board) and as long as a reporter has a word processor basically that's all the boss is really worried about.
+
+In answer to your question about similar tools, no to the best of my knowledge there is nothing like this. The normal approach is what have we written before? What have the other papers written? and where can we move the story to next?
+
+I don't think it would conflict with newsrooms but it might take some getting used to and a bit of explaining. The person who would commission it would be in management it varies from firm to firm just who but must papers are part of big groups so if you got in one place there'd be a chance of going through the whole company. Although that said, they are usually led by the bods in IT from my experience. 
+
+A couple of years ago I did a few shifts at [a newsaper] and there was a girl there who introduced their facebook page, the bosses thought she was almost magical because she knew about facebook and how it worked. So there is space for technology it just needs a good salesman.
+
+
+--- 5 ---
+
+I have a few thoughts based on the description below:
+
+·         How would you identify and group content around topics? Reuters have a free to use technology called OpenCalais you may be interested in which will process a news story and provide information on extracted topics, entities, facts and events which we often use as a way to group content (e.g. in your example, we could start a tree around “Google acquire Motorola” and find all stories which mention this event).
+
+·         I see you’ve considered how this could be used in a newsroom and I agree there is definitely value here for journalists. If I were a researching journalist I would envisage entering a company/person/event/URL/etc. as the acorn, let the tree grow and follow links I find interesting. Having some form of slider to alter the signal/noise ratio would be useful depending on how much time I had to do the research.
+
+·         You mention some news aggregation tools, one we use here in Reuters is from a company called Moreover. They provide a rich feed of social media content from 3million sites which could drastically save you time in collecting information from across the web.
+
+·         I would be happy to provide you with access to the Reuters News API which supplies text/picture/video if you wished to use it for a proof of concept system. Our API provides content together with large amounts of metadata describing it and is reasonably simple to implement.
+
+In your blog you mention the difficulties in creating the back-end of your full system, however I think there is still value in starting with a subset of the functionality and iterating from there as appropriate. If it’s possible I’d really like to see the system in action if you have a prototype system ready and I’m keen to know where you plan to take this project next.
